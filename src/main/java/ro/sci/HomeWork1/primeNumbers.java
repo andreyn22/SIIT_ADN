@@ -2,7 +2,7 @@
 //https://www.alphacodingskills.com/java/pages/java-program-find-all-prime-numbers-less-than-the-given-number.php
 
 package main.java.ro.sci.HomeWork1;
-public class alg5_PrimeNumbers {
+public class primeNumbers {
     static void primenumber(int MyNum) {
         int n = 0;
         for(int i = 2; i < (MyNum/2+1); i++) {

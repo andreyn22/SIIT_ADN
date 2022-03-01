@@ -1,6 +1,6 @@
 package main.java.ro.sci.Pseudocode;
 
-public class Pseudocode5 {
+public class pseudocode5 {
 /*    Start
 
     READ n

@@ -2,7 +2,7 @@
 //https://www.javatpoint.com/java-program-to-print-the-smallest-element-in-an-array
 
 package main.java.ro.sci.HomeWork1;
-public class alg3_MaxDigit {static void Digits(int n)
+public class maxDigit {static void Digits(int n)
 {
     int largest = 0;
     while(n != 0)

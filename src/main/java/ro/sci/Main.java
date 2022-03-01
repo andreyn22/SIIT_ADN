@@ -1,6 +1,6 @@
 package main.java.ro.sci;
 
-import main.java.ro.sci.calculator.Calculator;
+import main.java.ro.sci.courses.course1.calculator.Calculator;
 
 public class Main {
     public static void main(String[] args) {

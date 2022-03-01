@@ -2,7 +2,7 @@
 
 package main.java.ro.sci.HomeWork1;
 
-public class alg4_Palindrom {
+public class palindrom {
     public static void main(String[] args) {
         String s1 = "1221";
         String s2 = "34143";

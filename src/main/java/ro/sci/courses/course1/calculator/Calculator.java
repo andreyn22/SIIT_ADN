@@ -1,4 +1,5 @@
-package main.java.ro.sci.calculator;
+/*
+package main.java.ro.sci.courses.course1.calculator;
 
 public class Calculator {
 
@@ -23,3 +24,4 @@ public class Calculator {
         return Math.cos(angle);
     }
 }
+*/

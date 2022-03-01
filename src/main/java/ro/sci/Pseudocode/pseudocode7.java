@@ -1,6 +1,6 @@
 package main.java.ro.sci.Pseudocode;
 
-public class Pseudocode7 {
+public class pseudocode7 {
 /*    Start
 
             REPEAT

@@ -1,6 +1,6 @@
 package main.java.ro.sci.Pseudocode;
 
-public class Pseudocode6 {
+public class pseudocode6 {
  /*   Start
 
             sum = 0

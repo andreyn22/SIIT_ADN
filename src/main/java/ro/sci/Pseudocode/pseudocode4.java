@@ -1,6 +1,6 @@
 package main.java.ro.sci.Pseudocode;
 
-public class Pseudocode4 {
+public class pseudocode4 {
     /*Start
 
     READ index

@@ -1,7 +1,7 @@
 //Display the smallest number from an array of number
 
 package main.java.ro.sci.HomeWork1;
-public class alg2_SmallestNumber {
+public class smallestNumber {
     public static void main(String[] args)
     {
         int[] initializedArray
